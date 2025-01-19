@@ -1,11 +1,28 @@
-# 🥔🍳 Receta de Tortilla de Patata en JavaScript
-¡Bienvenidos a este repositorio donde la magia de la cocina se encuentra con la elegancia del código! 🍽️ 
-### Descripción 
-Este proyecto convierte la clásica receta de tortilla de patata, un tesoro de la gastronomía española, en un emocionante ejercicio de programación en JavaScript. Aprende a cocinar este delicioso plato mientras mejoras tus habilidades de programación, ¡todo en un mismo lugar!
-### Características 
-- **Pasos detallados**: Desde la elección de ingredientes hasta el arte de darle la vuelta a la tortilla, cada paso está minuciosamente descrito y codificado.
-- **Interfaz interactiva**: Una interfaz amigable para seguir la receta y entender el flujo del código.
-- **Consejos de cocina**: Trucos y secretos para lograr la tortilla perfecta, directamente en tu pantalla.
-- **Código limpio**: Ejemplos de código bien estructurados y comentados, ideales para principiantes y curiosos de la programación.
+# 🍳 Receta de Tortilla de Patatas
 
-![Captura_de_pantalla_2025-01-13_200013-removebg-preview](https://github.com/user-attachments/assets/7f1b3632-010c-442e-adda-e065f62d9e53)
+Bienvenido a este repositorio donde la magia culinaria cobra vida. ¿Listo para dominar el arte de la Tortilla de Patatas? Este script te guiará paso a paso para crear una deliciosa y clásica tortilla española que dejará a todos chupándose los dedos. ¡Vamos a ello!
+
+![Tortilla de Patatas](https://github.com/user-attachments/assets/477fe444-04b8-4347-8a38-4b39ba3c6fee)
+
+## 📋 Ingredientes
+
+- **Patatas** .......... 700g
+- **Cebollas** ......... 300g
+- **Huevos** ........... 6
+- **Sal** ..............
+- **Aceite** ...........
+
+## 🍽️ Cómo Hacer Tortilla de Patatas
+
+### Dificultad: Media
+### Tiempo Total: 45 minutos
+- **Elaboración:** 30 minutos
+- **Cocción:** 15 minutos
+
+### Instrucciones:
+
+1. **Caramelizar la Cebolla:** Pela y corta en juliana las cebollas, y cocínalas a fuego lento durante 30 minutos, removiendo ocasionalmente.
+2. **Freír las Patatas:** Cocina las patatas lentamente en aceite casi frío para confitarlas. Después de 10 minutos, sube el fuego para dorarlas un poco y lograr contrastes.
+3. **Mezclar y Cocinar:** Escurre las patatas y la cebolla. Mézclalas con los huevos batidos. Cocina la mezcla en una sartén con aceite durante 3-4 minutos y luego dale la vuelta. (¡Las sartenes dobles pueden facilitar esta operación!)
+
+¡Y voilà! Tu deliciosa Tortilla de Patatas está lista para ser disfrutada. 😋

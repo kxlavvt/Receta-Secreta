@@ -2,7 +2,7 @@
 
 Bienvenido a este repositorio donde la magia culinaria cobra vida. ¿Listo para dominar el arte de la Tortilla de Patatas? Este script te guiará paso a paso para crear una deliciosa y clásica tortilla española que dejará a todos chupándose los dedos. ¡Vamos a ello!
 
-![Tortilla de Patatas](https://github.com/user-attachments/assets/477fe444-04b8-4347-8a38-4b39ba3c6fee)
+<img src="https://github.com/user-attachments/assets/477fe444-04b8-4347-8a38-4b39ba3c6fee" width="250" display="left"> <img src="https://github.com/user-attachments/assets/7f1b3632-010c-442e-adda-e065f62d9e53" width="250" display="right">
 
 ## 📋 Ingredientes
 
